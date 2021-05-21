@@ -1,0 +1,47 @@
+{
+    "gameName": "Json Template",
+    "image": "",
+    "questions": [
+        {
+            "id": "HHHH-6080-so-fun",
+            "title": "Do you think 6080 is fun",
+            "answers": [
+                {
+                    "aid": "fun-1",
+                    "aBody": "yes, I love it",
+                    "isCorrect": false
+                },
+                {
+                    "aid": "fun-2",
+                    "aBody": "no, I hate it",
+                    "isCorrect": true
+                },
+                {
+                    "aid": "fun-3",
+                    "aBody": "yes, I love it",
+                    "isCorrect": false
+                },
+                {
+                    "aid": "fun-4",
+                    "aBody": "yes, I love it",
+                    "isCorrect": false
+                },
+                {
+                    "aid": "fun-5",
+                    "aBody": "yes, I love it",
+                    "isCorrect": false
+                },
+                {
+                    "aid": "fun-6",
+                    "aBody": "yes, I love it",
+                    "isCorrect": false
+                }
+            ],
+            "answerOption": "single-select",
+            "timeLimit": "20",
+            "points": "20",
+            "imgUrl": "",
+            "linkUrl": ""
+        }
+    ]
+}
